@@ -1,6 +1,6 @@
 
 # Apache Cassandra: The basics
-This document complies the basics when operating with Apache Cassandra. 
+This document complies basic information and procedures when operating with Apache Cassandra. 
 
 More info: http://cassandra.apache.org/ and https://en.wikipedia.org/wiki/Apache_Cassandra
 
